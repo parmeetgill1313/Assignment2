@@ -1,0 +1,133 @@
+Race 1 time: 6:57
+Race 1 speed: 43.17Km/h
+
+Race 2 time: 7:01
+Race 2 speed: 42.76Km/h
+
+Race 3 time: 7:05
+Race 3 speed: 42.35Km/h
+
+Race 4 time: 6:55
+Race 4 speed: 43.37Km/h
+
+Race 5 time: 7:12
+Race 5 speed: 41.67Km/h
+
+Race 6 time: 7:23
+Race 6 speed: 40.63Km/h
+
+Race 7 time: 7:12
+Race 7 speed: 41.67Km/h
+
+Race 8 time: 6:59
+Race 8 speed: 42.96Km/h
+
+Race 1 time: 6:48
+Race 1 speed: 44.12Km/h
+
+Race 2 time: 6:49
+Race 2 speed: 44.01Km/h
+
+Race 3 time: 6:50
+Race 3 speed: 43.90Km/h
+
+Race 4 time: 6:50
+Race 4 speed: 43.90Km/h
+
+Race 5 time: 6:55
+Race 5 speed: 43.37Km/h
+
+Race 6 time: 7:00
+Race 6 speed: 42.86Km/h
+
+Race 7 time: 7:01
+Race 7 speed: 42.76Km/h
+
+Race 8 time: 7:02
+Race 8 speed: 42.65Km/h
+
+Race 9 time: 7:12
+Race 9 speed: 41.67Km/h
+
+Race 10 time: 6:59
+Race 10 speed: 42.96Km/h
+
+Race 1 time: 6:49
+Race 1 speed: 44.01Km/h
+
+Race 2 time: 7:01
+Race 2 speed: 42.76Km/h
+
+Race 3 time: 7:23
+Race 3 speed: 40.63Km/h
+
+Race 4 time: 7:12
+Race 4 speed: 41.67Km/h
+
+Race 5 time: 7:21
+Race 5 speed: 40.82Km/h
+
+Race 6 time: 6:59
+Race 6 speed: 42.96Km/h
+
+Race 7 time: 6:48
+Race 7 speed: 44.12Km/h
+
+Race 1 time: 6:55
+Race 1 speed: 43.37Km/h
+
+Race 2 time: 6:57
+Race 2 speed: 43.17Km/h
+
+Race 3 time: 6:52
+Race 3 speed: 43.69Km/h
+
+Race 4 time: 6:53
+Race 4 speed: 43.58Km/h
+
+Race 5 time: 6:45
+Race 5 speed: 44.44Km/h
+
+Race 6 time: 7:13
+Race 6 speed: 41.57Km/h
+
+Race 7 time: 7:11
+Race 7 speed: 41.76Km/h
+
+Race 8 time: 7:03
+Race 8 speed: 42.55Km/h
+
+Race 9 time: 7:13
+Race 9 speed: 41.57Km/h
+
+Race 10 time: 6:55
+Race 10 speed: 43.37Km/h
+
+Race 1 time: 7:19
+Race 1 speed: 41.00Km/h
+
+Race 2 time: 7:11
+Race 2 speed: 41.76Km/h
+
+Race 3 time: 7:22
+Race 3 speed: 40.72Km/h
+
+Race 4 time: 7:15
+Race 4 speed: 41.38Km/h
+
+Race 5 time: 7:15
+Race 5 speed: 41.38Km/h
+
+Race 6 time: 7:14
+Race 6 speed: 41.47Km/h
+
+Race 7 time: 7:12
+Race 7 speed: 41.67Km/h
+
+Race 8 time: 7:12
+Race 8 speed: 41.67Km/h
+
+Race 9 time: 7:13
+Race 9 speed: 41.57Km/h
+
+end of processing
